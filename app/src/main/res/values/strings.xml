@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movies Info</string>
+    <string name="small_poster_description">Small poster</string>
+    <string name="popular_text">Popular</string>
+    <string name="top_rated_text">Top rated</string>
+    <string name="button_favorites_description">Button that add and removes movies from favorites</string>
+    <string name="overview_label">Overview</string>
+    <string name="rating_label">Rating:</string>
+    <string name="release_date_label">Release date:</string>
+    <string name="title_label">Title:</string>
+    <string name="home_item">Home</string>
+    <string name="favorites_item">Favorites</string>
+    <string name="imageViewPlay_description">Play video</string>
+    <string name="home_action_bar_title">Home</string>
+    <string name="favorites_action_bar_title">Favorites</string>
+    <string name="movie_details_action_bar_title">Info</string>
+    <string name="big_poster_description">Big poster</string>
+</resources>

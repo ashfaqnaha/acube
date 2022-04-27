@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies Info</string>
+    <string name="small_poster_description">Mały poster</string>
+    <string name="popular_text">Popularne</string>
+    <string name="button_favorites_description">Przycisk który dodaje i usuwa filmy z wybranych</string>
+    <string name="overview_label">Opis</string>
+    <string name="rating_label">Ocena:</string>
+    <string name="release_date_label">Data premiery:</string>
+    <string name="title_label">Tytuł filmu:</string>
+    <string name="home_item">Główna</string>
+    <string name="favorites_item">Wybrane</string>
+    <string name="imageViewPlay_description">Zobaczyć wideo</string>
+    <string name="top_rated_text">Najlepsze</string>
+    <string name="home_action_bar_title">Główna</string>
+    <string name="favorites_action_bar_title">Wybrane</string>
+    <string name="movie_details_action_bar_title">Informacje</string>
+    <string name="big_poster_description">Wielki poster</string>
+</resources>

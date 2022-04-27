@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies Info</string>
+    <string name="small_poster_description">Малий постер</string>
+    <string name="popular_text">Популярні</string>
+    <string name="top_rated_text">Рейтингові</string>
+    <string name="button_favorites_description">Кнопка, що додає та видаляє фільм з улюблених</string>
+    <string name="overview_label">Опис</string>
+    <string name="rating_label">Рейтинг:</string>
+    <string name="release_date_label">Дата виходу:</string>
+    <string name="title_label">Назва:</string>
+    <string name="home_item">Головна</string>
+    <string name="favorites_item">Улюбленні</string>
+    <string name="imageViewPlay_description">Подивитись відео</string>
+    <string name="home_action_bar_title">Головна</string>
+    <string name="favorites_action_bar_title">Улюбленні</string>
+    <string name="movie_details_action_bar_title">Інформація</string>
+    <string name="big_poster_description">Великий постер</string>
+</resources>

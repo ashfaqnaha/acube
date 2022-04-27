@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies Info</string>
+    <string name="small_poster_description">Маленький постер</string>
+    <string name="popular_text">Популярные</string>
+    <string name="top_rated_text">Рейтинговые</string>
+    <string name="button_favorites_description">Кнопка которая добаляет и удаляет фильмы из избранного</string>
+    <string name="overview_label">Описание</string>
+    <string name="rating_label">Рейтинг:</string>
+    <string name="release_date_label">Дата выхода:</string>
+    <string name="title_label">Название:</string>
+    <string name="home_item">Главная</string>
+    <string name="favorites_item">Избранное</string>
+    <string name="imageViewPlay_description">Посмотреть видео</string>
+    <string name="home_action_bar_title">Главная</string>
+    <string name="favorites_action_bar_title">Избранное</string>
+    <string name="movie_details_action_bar_title">Информация</string>
+    <string name="big_poster_description">Большой постер</string>
+</resources>
